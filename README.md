@@ -1,2 +1,2 @@
 # pank-world
-repository created by pank for whole world
+Hi I like node and codes.
